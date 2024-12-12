@@ -55,13 +55,13 @@ button {
 }
 
 .cta-ghost {
-    border: 2px solid #c43c6b !important;
-    color: #c43c6b;
+    border: 2px solid #3b493d !important;
+    color: #3b493d;
 }
 
 .cta-ghost:hover {
     color: #ffffff8a;
-    background: #c43c6b;
+    background: #3b493d;
 }
 
 #banner {
@@ -84,11 +84,11 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(168deg, #ffffff8a 55%, #c43c6b 0);
+    background: linear-gradient(168deg, #ffffff8a 55%, #3b493d 0);
 }
 
 #feature-last {
-    background: #c43c6b;
+    background: #3b493d;
 }
 
 /********** price table **********/
@@ -116,7 +116,7 @@ button {
 }
 
 #contact form {
-    color: #c43c6b;
+    color: #3b493d;
 }
 
 #contact form input,
@@ -128,7 +128,7 @@ button {
 
 /********** copyright **********/
 #copyright {
-    background: #192440;
+    background: #3b493d;
     padding: 2rem 3rem;
 }
 
