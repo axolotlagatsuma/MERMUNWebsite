@@ -4,6 +4,10 @@ h2 {
     font-weight: 700;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 img {
     display: block;
     max-width: 100%;
@@ -35,23 +39,23 @@ button {
 }
 
 .cta-green {
-    background: #192440;
+    background: #3b493d;
     color: #ffffff8a;
 }
 
 .cta-green:hover {
-    color: #192440;
+    color: #3b493d;
     background: #ffffff8a;
 }
 
 .cta-blue {
-    background: #192440;
+    background: #3b493d;
     color: #ffffff8a;
 }
 
 .cta-blue:hover {
     color: #ffffff8a;
-    background: #121a2e;
+    background: #3b493d;
 }
 
 .cta-ghost {
