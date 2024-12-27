@@ -11,7 +11,7 @@ Title : "Project : MERMUN"
 
 *Beep* *Boop* *Beep*
 
-[THIS IS A AUTOMATED MESSAGE]
+[THIS IS AN AUTOMATED MESSAGE]
 
 Greetings officer,
 
