@@ -15,6 +15,6 @@ Title : "Project : MERMUN"
 
 Greetings officer,
 
-If you see this message this means the operation is already started. The expected execution date for "Project : MERMUN" is 2 April. See you there, God bless Taylan Kaya.
+If you see this message this means the operation has already started. The expected execution date for "Project : MERMUN" is 2 April. See you there, God bless Taylan Kaya.
 
 Yours sincerely.
