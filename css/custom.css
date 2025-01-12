@@ -70,6 +70,118 @@ button {
     cursor: pointer;
 }
 
+.poppins-thin {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.poppins-extralight {
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.poppins-light {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.poppins-regular {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.poppins-medium {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.poppins-semibold {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.poppins-bold {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.poppins-extrabold {
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: normal;
+}
+
+.poppins-black {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.poppins-thin-italic {
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: italic;
+}
+
+.poppins-extralight-italic {
+    font-family: "Poppins", serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.poppins-light-italic {
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: italic;
+}
+
+.poppins-regular-italic {
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.poppins-medium-italic {
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.poppins-semibold-italic {
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.poppins-bold-italic {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.poppins-extrabold-italic {
+    font-family: "Poppins", serif;
+    font-weight: 800;
+    font-style: italic;
+}
+
+.poppins-black-italic {
+    font-family: "Poppins", serif;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.committee-details h4{
+    margin-top: 2%;
+}
+
 .jumbotron {
     margin-bottom: 0 !important;
 }
@@ -91,33 +203,33 @@ button {
 }
 
 .cta-green {
-    background: #3b493d;
+    background: #08323e;
     color: #ffffff;
 }
 
 .cta-green:hover {
-    color: #3b493d;
+    color: #08323e;
     background: #ffffff;
 }
 
 .cta-blue {
-    background: #3b493d;
+    background: #08323e;
     color: #ffffff;
 }
 
 .cta-blue:hover {
     color: #ffffff;
-    background: #3b493d;
+    background: #08323e;
 }
 
 .cta-ghost {
-    border: 2px solid #3b493d !important;
-    color: #3b493d;
+    border: 2px solid #08323e !important;
+    color: #08323e;
 }
 
 .cta-ghost:hover {
     color: #ffffff;
-    background: #3b493d;
+    background: #08323e;
 }
 
 #banner {
@@ -140,11 +252,11 @@ button {
 }
 
 #feature-first {
-    background: linear-gradient(168deg, #ffffff8a 55%, #3b493d 0);
+    background: linear-gradient(168deg, #ffffff8a 55%, #08323e 0);
 }
 
 #feature-last {
-    background: #3b493d;
+    background: #08323e;
 }
 
 /********** price table **********/
@@ -154,7 +266,7 @@ button {
 }
 
 #price-table__premium {
-    background: #192440;
+    background: #08323e;
     color: #ffffff8a;
 }
 
@@ -172,7 +284,7 @@ button {
 }
 
 #contact form {
-    color: #3b493d;
+    color: #08323e;
 }
 
 #contact form input,
@@ -184,7 +296,7 @@ button {
 
 /********** copyright **********/
 #copyright {
-    background: #3b493d;
+    background: #08323e;
     padding: 2rem 3rem;
 }
 
@@ -197,7 +309,7 @@ button {
 }
 
 #copyright #social-media a i {
-    color: #192440;
+    color: #08323e;
     font-size: 1.2rem;
     line-height: 40px;
 }
