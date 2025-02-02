@@ -228,7 +228,7 @@ button {
 }
 
 .cta-ghost:hover {
-    color: #ffffff;
+    color: #ffffff !important;
     background: #08323e;
 }
 
